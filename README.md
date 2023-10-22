@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lmong11
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning cv and tensorflow
 - 💞️ I’m looking to collaborate on something i dont know now
-- 📫 How to reach me --lmong@foxmail.com
+- 📫 How to reach me --hainanli111111@gmail.com
 
 <!---
 lmong11/lmong11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
